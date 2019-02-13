@@ -1,0 +1,50 @@
+body{
+  background-color: #0000ff;
+}
+
+.frame{
+  border: 5px solid #ffffff;
+  background-color: #ffffff;
+}
+
+.header{
+  border: none;
+  background-color: #000088;
+  text-align: center;
+  font-size: 60px;
+  font-family: Lucida Sans Unicode;
+  color: #ffffff;
+}
+
+.blank{
+  border: none;
+}
+
+.lenke{
+  border: none;
+  background-color: #0000ff;
+  text-align: center;
+  font-size: 30px;
+  font-family: Lucida Sans Unicode;
+  color: #ffffff;
+}
+
+.lenke:hover{
+  background-color: #00ffff;
+}
+
+.innhold{
+  border: none;
+  background-color: #ffffff;
+  text-align: left;
+  font-size: 15px;
+  font-family: Lucida Sans Unicode;
+  color: #000000;
+}
+
+.bilde1{
+  border: none;
+  background-image: url(../media/forside.jpg);
+  height: 400px;
+  background-repeat: no-repeat;
+}
